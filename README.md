@@ -12,7 +12,7 @@ Decide how much time to give to a task
 
 # DEMO
 
-[Web App](https://utilisettime.netlify.app)
+[Web App](https://utilisetime.netlify.app/)
 
 ## Installation
 
