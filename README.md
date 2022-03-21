@@ -6,7 +6,7 @@ Decide how much time to give to a task
 
 <img src="public/screenshot1.png"  alt='webapp screenshot' width='100%' />
 
-<img src="public/screenshot2.jpeg"  alt='webapp screenshot' width='100%' />
+<img src="public/screenshot2.png"  alt='webapp screenshot' width='100%' />
 
 # DEMO
 
@@ -14,7 +14,8 @@ Decide how much time to give to a task
 [Web App](https://utilisetime.netlify.app)
 =======
 [Web App](https://utilisetime.netlify.app/)
->>>>>>> 86bc96df2b222edf6b884fd1e20a11cb6156acbd
+
+> > > > > > > 86bc96df2b222edf6b884fd1e20a11cb6156acbd
 
 ## Installation
 
