@@ -46,7 +46,7 @@ const App: FC = () => {
               </svg>
               Add your Task
             </motion.button>
-            <h1>Utilise time properly</h1>
+            <h1>Utilize time properly</h1>
           </div>
         </div>
 

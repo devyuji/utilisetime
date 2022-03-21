@@ -31,7 +31,7 @@ const Navbar: FC = () => {
           </li>
           <li>
             <a
-              href="https://github.com/devyuji"
+              href="https://github.com/devyuji/utilisetime"
               target="_blank"
               rel="noopener noreferrer"
               className="nav_btn"

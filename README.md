@@ -4,15 +4,13 @@ Decide how much time to give to a task
 
 # SCREENSHOTS
 
-<!-- ![](/public/screenshot1.png) -->
 <img src="public/screenshot1.png"  alt='webapp screenshot' width='100%' />
 
 <img src="public/screenshot2.jpeg"  alt='webapp screenshot' width='100%' />
-<!-- ![](/public/screenshot2.jpeg) -->
 
 # DEMO
 
-[Web App](https://utilisettime.netlify.app)
+[Web App](https://utilisetime.netlify.app)
 
 ## Installation
 
